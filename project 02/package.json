@@ -1,0 +1,22 @@
+{
+  "name": "project-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fastify": "^4.24.3",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "tsx": "^3.14.0",
+    "typecript": "^0.0.1-security"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
